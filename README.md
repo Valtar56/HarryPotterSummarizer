@@ -1,3 +1,5 @@
+**Summarizing Harry Potter books in 6 lines**
+
 *Summarizing long documents using LLMs with a fixed context window posses certain challenges which can be faced with certain techniques and approaches as shown in this repository.*
 
 We take Harry Potter books namely
